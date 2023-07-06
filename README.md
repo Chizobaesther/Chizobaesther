@@ -4,7 +4,8 @@
 
 
 
-                                           ![gif coding](https://github.com/Chizobaesther/Chizobaesther/assets/131677886/b9fc8d58-0341-43b3-9e40-43fc3cdfb0fc)
+                                           
+![gif coding](https://github.com/Chizobaesther/Chizobaesther/assets/131677886/5d664628-f6d6-4384-8938-d88a739256b9)
 
 
 
