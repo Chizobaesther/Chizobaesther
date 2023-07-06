@@ -2,9 +2,13 @@
 <h3 align="center">A Passionate Data Analyst who solves business related problems using Data</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chizobaesther&label=Profile%20views&color=0e75b6&style=flat" alt="chizobaesther" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobaesther" alt="chizobaesther" /></a> </p>
+
+![gif coding](https://github.com/Chizobaesther/Chizobaesther/assets/131677886/b9fc8d58-0341-43b3-9e40-43fc3cdfb0fc)
+
+
+
+
 
 - 🔭 I’m currently working on **Python and SQL projects**
 
